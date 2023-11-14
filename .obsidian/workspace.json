@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "fdf9384398dc1c3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf4b1f91fd9cbb6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636d6ab417a3cba4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dce7fe4a8876e55",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffa5cfa02fc3613e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af74fffa1728a9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d4c9ded8f4c7c21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdf97a9b07c7f439",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a21de989bd57d94",
+    "type": "split",
+    "children": [
+      {
+        "id": "a32bfecc47a83501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77854eafeae45753",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "836a4efa54845219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "758c10fb43627285",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f4e7c3f54b33393",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "636d6ab417a3cba4",
+  "lastOpenFiles": [
+    "knowledge/static-site.md",
+    "dev/frontend/github.md",
+    "dev/frontend/hugo.md",
+    "dev/frontend/jekyll.md",
+    "dev/frontend",
+    "dev/create-bootable-usb-using-cli",
+    "til"
+  ]
+}
